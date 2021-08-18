@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="">
+### Hi there
 I am Onyekachi Osisiogu, a reseacher. I really love to learn new things.
 <p>
 <b>😄How to reach me😄</b></p>

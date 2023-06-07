@@ -11,8 +11,11 @@ Send me a message via LinkedIn⚡
 <p>
   <a href="https://www.linkedin.com/in/onyekachi-osisiogu/"><img height="40" src="https://user-images.githubusercontent.com/50482876/129754677-f7602703-5d37-41cb-83a1-fd0ca94a01a7.jpeg" alt=""/></a>
   </p>
+  
 ### Languages
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
+
 <!--
 **kachiann/kachiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

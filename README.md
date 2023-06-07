@@ -21,6 +21,14 @@ Send me a message via LinkedIn⚡
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
 
+### Machine Learning
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/kachiann)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/kachiann)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/kachiann)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/kachiann)
+[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/kachiann)
+
+
 <!--
 **kachiann/kachiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

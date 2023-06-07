@@ -2,7 +2,12 @@
 I am Onyekachi (Osisiogu) Emenike, a reseacher. I really love to learn new things.
 <p>
 🔭 I’m currently working on Quasi-Monte Carlo Algorithms
-
+    
+🌱 I’m currently learning data science skills
+    
+<p  
+   \
+   > 
     
 <b>😄How to reach me😄</b></p>
 <p>
@@ -22,7 +27,7 @@ Send me a message via LinkedIn⚡
 Here are some ideas to get you started:
 
 - 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

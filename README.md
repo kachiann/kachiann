@@ -2,7 +2,7 @@
 I am Onyekachi Osisiogu, a reseacher. I really love to learn new things.
 <p>
 🔭 I’m currently working on Quasi-Monte Carlo Algorithms
-  <\p>
+
     
 <b>😄How to reach me😄</b></p>
 <p>

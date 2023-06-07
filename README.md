@@ -1,6 +1,7 @@
 ### Hi there
 I am Onyekachi Osisiogu, a reseacher. I really love to learn new things.
 <p>
+🔭 I’m currently working on Quasi-Monte Carlo Algorithms
 <b>😄How to reach me😄</b></p>
 <p>
 Send me a message via LinkedIn⚡ 
@@ -14,7 +15,7 @@ Send me a message via LinkedIn⚡
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

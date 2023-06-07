@@ -1,5 +1,5 @@
 ### Hi there
-I am Onyekachi Osisiogu, a reseacher. I really love to learn new things.
+I am Onyekachi (Osisiogu) Emenike, a reseacher. I really love to learn new things.
 <p>
 🔭 I’m currently working on Quasi-Monte Carlo Algorithms
 

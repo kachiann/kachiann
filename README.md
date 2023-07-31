@@ -3,7 +3,7 @@ I am Onyekachi (Osisiogu) Emenike, a researcher. I really love to learn new thin
 <p>
 🔭 I’m currently working on Quasi-Monte Carlo Algorithms
     
-🌱 I’m currently learning data science skills
+🌱 Data Scientist with a PhD in Mathematics and experience in research
     
 <p  
    \

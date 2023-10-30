@@ -27,6 +27,8 @@ Send me a message via LinkedIn⚡
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/kachiann)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/kachiann)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/kachiann)
+[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/kachiann)
+
 
 
 <!--

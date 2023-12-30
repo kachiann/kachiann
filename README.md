@@ -21,14 +21,20 @@ Send me a message via LinkedIn⚡
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
 
-### Machine Learning
+### Data Science
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/kachiann)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/kachiann)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/kachiann)
+[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/kachiann)
+[![Apache Spark](https://img.shields.io/badge/ApacheSpark-black?style=for-the-badge&logo=apachespark)](https://github.com/kachiann)
+
+
+### Machine Learning
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/kachiann)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/kachiann)
-[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/kachiann)
-
+[![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/kachiann)
+[![TensorFlow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/kachiann)
 
 
 <!--

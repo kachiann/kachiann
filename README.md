@@ -20,6 +20,7 @@ Send me a message via LinkedIn⚡
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/kachiann)
 
 ### Data Science
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/kachiann)

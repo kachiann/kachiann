@@ -38,6 +38,8 @@ Send me a message via LinkedIn⚡
 [![TensorFlow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/kachiann)
 
 ### Natural Language Processing
+[![SpaCy](https://img.shields.io/badge/SpaCy-black?style=for-the-badge&logo=SpaCy)](https://github.com/kachiann)
+[![Gensim](https://img.shields.io/badge/gensim-black?style=for-the-badge&logo=gensim)](https://github.com/kachiann)
 <!--
 **kachiann/kachiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

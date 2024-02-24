@@ -20,7 +20,10 @@ Send me a message via LinkedIn⚡
 ### Languages
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
-[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/kachiann)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/kachiann)
+[![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=Matlab)](https://github.com/kachiann)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=HTML)](https://github.com/kachiann)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MATLAB)](https://github.com/kachiann)
 
 ### Data Science
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/kachiann)

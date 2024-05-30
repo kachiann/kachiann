@@ -2,9 +2,9 @@
 
 I am Onyekachi Emenike (nee Osisiogu), a researcher. I really love to learn new things.
 
-🌱 I’m currently working on Quasi-Monte Carlo Algorithms
+🌱 I’m currently working on Quasi-Monte Carlo Algorithms.
 
-:fireworks: I'm a Data Scientist with a PhD in Mathematics and experience in research
+:fireworks: I'm a Data Scientist with a PhD in Mathematics and experience in research.
 
 <b>😄How to reach me😄</b>
 <p>Send me a message via LinkedIn⚡</p>

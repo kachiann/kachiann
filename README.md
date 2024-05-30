@@ -14,7 +14,7 @@ I am Onyekachi Emenike (nee Osisiogu), a researcher. I really love to learn new 
   </a>
 </p>
 <p>
-  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID">
+  <a href="https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=enD">
     <img src="https://img.shields.io/badge/Google%20Scholar-black?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
   </a>
 </p>

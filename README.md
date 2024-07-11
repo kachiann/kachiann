@@ -43,6 +43,13 @@ I am Onyekachi Emenike (nee Osisiogu), a researcher. I really love to learn new 
 [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/kachiann)
 [![TensorFlow](https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/kachiann)
 
+
+### MLOps
+
+[![Mlflow](https://img.shields.io/badge/Mlflow-black?style=for-the-badge&logo=mlflow)](https://github.com/kachiann)
+[![MageAI](https://img.shields.io/badge/MageAI-black?style=for-the-badge&logo=mageai)](https://github.com/kachiann)
+[![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge&logo=databricks)](https://github.com/kachiann)
+
 ### Natural Language Processing
 
 [![SpaCy](https://img.shields.io/badge/SpaCy-black?style=for-the-badge&logo=SpaCy)](https://github.com/kachiann)

@@ -6,6 +6,8 @@ I am Onyekachi Emenike (nee Osisiogu), a researcher. I really love to learn new 
 
 :fireworks: I'm a Data Scientist with a PhD in Mathematics and experience in research.
 
+⭐ Streamlining the machine learning lifecycle for efficient model deployment and management in MLOps.
+
 <b>😄How to reach me😄</b>
 <p>Send me a message via LinkedIn⚡</p>
 <p>

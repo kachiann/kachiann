@@ -74,8 +74,3 @@ I build end-to-end machine learning systems — from data pipelines to deployed 
 [![Gensim](https://img.shields.io/badge/Gensim-black?style=for-the-badge&logo=gensim)](https://github.com/kachiann)
 
 ---
-
-## 📈 GitHub Stats
-
-![Kachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kachiann&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kachiann&layout=compact&theme=dark&hide_border=true)

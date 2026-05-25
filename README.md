@@ -13,7 +13,7 @@ I build end-to-end machine learning systems and cloud data pipelines — from ra
 
 - 🎓 PhD in Mathematics — dissertation on building **Quasi-Monte Carlo Algorithms**
 - ⚙️ Streamlining the ML lifecycle for efficient model deployment and management in MLOps
-- 🌱 Currently applying QMC research to data science problems
+- 🌱 PhD focused on constructing new QMC point sets and lattice rules; interested in exploring how these low-discrepancy structures can replace standard Monte Carlo sampling in ML workflows — from numerical integration in Bayesian inference to more efficient training data sampling
 - ✍️ I write about data science on [Medium](https://medium.com/@kachiann)
 - 📄 Published research on [Google Scholar](https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-1081-4481)
 

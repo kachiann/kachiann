@@ -1,10 +1,10 @@
 # Hi there, I'm Kachi 👋
 
-**PhD Mathematician | Data Scientist | MLOps Engineer**
+**PhD Mathematician | Data Scientist | Data Engineer | MLOps Engineer**
 
-I build end-to-end machine learning systems — from data pipelines to deployed models — with a focus on MLOps, NLP, and reproducible research. My PhD research was on building Quasi-Monte Carlo Algorithms.
+I build end-to-end machine learning systems and cloud data pipelines — from raw data ingestion to deployed models — with a focus on Data Engineering, MLOps, NLP, and reproducible research. My PhD research was on building Quasi-Monte Carlo Algorithms.
 
-🚀 **Open to:** Data Science · ML Engineering · MLOps roles  
+🚀 **Open to:** Data Science · Data Engineering · ML Engineering · MLOps roles  
 📍 **Based in:** Rhineland-Palatinate, Germany  
 
 ---
@@ -67,6 +67,13 @@ I build end-to-end machine learning systems — from data pipelines to deployed 
 [![MLflow](https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=mlflow)](https://github.com/kachiann)
 [![MageAI](https://img.shields.io/badge/MageAI-black?style=for-the-badge&logo=mageai)](https://github.com/kachiann)
 [![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge&logo=databricks)](https://github.com/kachiann)
+
+## 🏗️ Data Engineering
+
+[![GCP](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
+[![BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlebigquery)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
+[![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
+[![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
 
 ## 🗣️ Natural Language Processing
 

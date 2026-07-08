@@ -1,83 +1,75 @@
-# Hi there, I'm Kachi 👋
+# Hi, I'm Kachi 👋
 
-**PhD Mathematician | Data Scientist | Data Engineer | MLOps Engineer**
+**Data Scientist | PhD in Mathematics | MLOps · LLMs · Quasi-Monte Carlo**
 
-I build end-to-end machine learning systems and cloud data pipelines — from raw data ingestion to deployed models — with a focus on Data Engineering, MLOps, NLP, and reproducible research. My PhD research was on building Quasi-Monte Carlo Algorithms.
+I build end-to-end data pipelines, ML systems, and research-grade numerical algorithms. My work sits at the intersection of applied mathematics and production machine learning.
 
-🚀 **Open to:** Data Science · Data Engineering · ML Engineering · MLOps roles  
-📍 **Based in:** Rhineland-Palatinate, Germany  
-
----
-
-## 🎆 About Me
-
-- 🎓 PhD in Mathematics — dissertation on building **Quasi-Monte Carlo Algorithms**
-- ⚙️ Streamlining the ML lifecycle for efficient model deployment and management in MLOps
-- 🌱 PhD focused on constructing new QMC point sets and lattice rules; interested in exploring how these low-discrepancy structures can replace standard Monte Carlo sampling in ML workflows — from numerical integration in Bayesian inference to more efficient training data sampling
-- ✍️ I write about data science on [Medium](https://medium.com/@kachiann)
-- 📄 Published research on [Google Scholar](https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-1081-4481)
+- 🔭 Currently researching **Quasi-Monte Carlo methods** and their applications in ML
+- 🤖 Building **RAG systems** and LLM-powered applications
+- ☁️ Experienced with **GCP** (BigQuery, GCS, Terraform, Dataproc)
+- 📝 Writing about data science on [Medium](https://medium.com/@kachiann)
+- 📄 Academic work on [Google Scholar](https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-1081-4481)
 
 ---
 
-## 😄 How to Reach Me
+## 🛠 Tech Stack
 
-<p>
-  <a href="https://www.linkedin.com/in/onyekachi-osisiogu/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@kachiann">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-black?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
-  </a>
-  <a href="https://x.com/kachi_ann">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" alt="X"/>
-  </a>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**MLOps & Infrastructure**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**NLP**
+
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Citi Bike Analytics Pipeline](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline) | Batch data engineering pipeline with partitioned DWH and Streamlit dashboard | GCP · Terraform · BigQuery · Python |
+| [Nursing Mothers RAG Chatbot](https://github.com/kachiann/nursing-mothers-rag-chatbot) | RAG-based chatbot answering nursing & infant care questions | Python · LangChain · Vector DB |
+| [MLOps Bike Demand](https://github.com/kachiann/project-mlops) | Full MLOps pipeline for bike-sharing demand forecasting | MLflow · Python · Docker |
+| [Hotel Booking Cancellations](https://github.com/kachiann/Hotel_Booking_Cancellations) | ML model to predict cancellations and optimize revenue strategy | Python · Scikit-Learn |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kachiann&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kachiann&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🛠️ Languages
+## 🤝 Connect
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kachiann)
-[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/kachiann)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/kachiann)
-[![MATLAB](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=matlab)](https://github.com/kachiann)
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/kachiann)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/kachiann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyekachi-osisiogu/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@kachiann)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kachi_ann)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Qe94rEoAAAAJ&hl=en)
 
-## 📊 Data Science
-
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/kachiann)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/kachiann)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/kachiann)
-[![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau)](https://github.com/kachiann)
-[![Apache Spark](https://img.shields.io/badge/ApacheSpark-black?style=for-the-badge&logo=apachespark)](https://github.com/kachiann)
-
-## 🤖 Machine Learning
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/kachiann)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/kachiann)
-[![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/kachiann)
-[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/kachiann)
-
-## ⚙️ MLOps
-
-[![MLflow](https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=mlflow)](https://github.com/kachiann)
-[![MageAI](https://img.shields.io/badge/MageAI-black?style=for-the-badge&logo=mageai)](https://github.com/kachiann)
-[![Databricks](https://img.shields.io/badge/Databricks-black?style=for-the-badge&logo=databricks)](https://github.com/kachiann)
-
-## 🏗️ Data Engineering
-
-[![GCP](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=googlecloud)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
-[![BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlebigquery)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
-[![Terraform](https://img.shields.io/badge/Terraform-black?style=for-the-badge&logo=terraform)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
-[![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline)
-
-## 🗣️ Natural Language Processing
-
-[![SpaCy](https://img.shields.io/badge/SpaCy-black?style=for-the-badge&logo=spacy)](https://github.com/kachiann)
-[![Gensim](https://img.shields.io/badge/Gensim-black?style=for-the-badge&logo=gensim)](https://github.com/kachiann)
-
----
+> Open to **collaborations** on ML research, data engineering, or LLM applications. DM on LinkedIn!

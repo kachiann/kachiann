@@ -1,15 +1,35 @@
-- name: GitHub Readme Stats Action
-  # You may pin to the exact commit or the version.
-  # uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448
-  uses: stats-organization/github-readme-stats-action@v2.0.1
-  with:
-    # Card type to generate (stats, top-langs, pin, wakatime, gist).
-    card: 
-    # Options for the card (query string or JSON).
-    options: # optional, default is 
-    # Output path for SVG file (relative path; include filename with .svg).
-    path: # optional, default is 
-    # GitHub token (PAT or GITHUB_TOKEN).
-    token: # optional, default is 
-    # Version of @stats-organization/github-readme-stats-core to use internally.
-    core_version: # optional, default is v2
+name: GitHub Readme Stats Action
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allows manual trigger from Actions tab
+  push:
+    branches: [main]
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Top Languages card
+        uses: stats-organization/github-readme-stats-action@v2.0.1
+        with:
+          card: top-langs
+          options: >
+            username=kachiann&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook
+          path: top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update top languages card"
+          git push

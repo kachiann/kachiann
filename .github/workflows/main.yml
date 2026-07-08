@@ -1,0 +1,15 @@
+- name: GitHub Readme Stats Action
+  # You may pin to the exact commit or the version.
+  # uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448
+  uses: stats-organization/github-readme-stats-action@v2.0.1
+  with:
+    # Card type to generate (stats, top-langs, pin, wakatime, gist).
+    card: 
+    # Options for the card (query string or JSON).
+    options: # optional, default is 
+    # Output path for SVG file (relative path; include filename with .svg).
+    path: # optional, default is 
+    # GitHub token (PAT or GITHUB_TOKEN).
+    token: # optional, default is 
+    # Version of @stats-organization/github-readme-stats-core to use internally.
+    core_version: # optional, default is v2

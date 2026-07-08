@@ -56,6 +56,10 @@ I build end-to-end data pipelines, ML systems, and research-grade numerical algo
 
 ---
 
+![Top Languages](./top-langs.svg)
+
+---
+
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyekachi-osisiogu/)

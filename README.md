@@ -49,6 +49,7 @@ I build end-to-end data pipelines, ML systems, and research-grade numerical algo
 
 | Project | Description | Stack |
 |---|---|---|
+| [Immobilien Preisrechner RLP](https://github.com/kachiann/immo-preisrechner-rlp_de/tree/main) | ML app estimating residential property prices in Rhineland-Palatinate (R² 0.75) with SHAP explainability, a price heatmap, and MLflow-tracked experiments | XGBoost · SHAP · Streamlit · MLflow · Python |
 | [Citi Bike Analytics Pipeline](https://github.com/kachiann/Citi-Bike-Analytics-Pipeline) | Batch data engineering pipeline with partitioned DWH and Streamlit dashboard | GCP · Terraform · BigQuery · Python |
 | [Nursing Mothers RAG Chatbot](https://github.com/kachiann/nursing-mothers-rag-chatbot) | RAG-based chatbot answering nursing & infant care questions | Python · LangChain · Vector DB |
 | [MLOps Bike Demand](https://github.com/kachiann/project-mlops) | Full MLOps pipeline for bike-sharing demand forecasting | MLflow · Python · Docker |
